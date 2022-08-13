@@ -1,0 +1,135 @@
+.link {
+    position:relative;
+    padding-right:7px;
+}
+.link:before{
+    position:absolute;
+    content:'';
+    width:7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: green;
+    right:-5px;
+    top:50%;
+    transform:translateY(-50%);
+}
+.mi {
+    position:relative;
+    padding-right:7px;
+    Width:fit-content;
+    Display:block;
+}
+.mi:before{
+    position:absolute;
+    content:'';
+    width:7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: green;
+    right:-5px;
+    top:50%;
+    transform:translateY(-50%);
+}
+* {
+        margin:0;
+        padding:0;
+    }
+    body {
+    padding:10px;
+    }
+   .inscrir{
+        margin-top:10px;
+        <img src="images (12).jpeg ">
+        font-size:24px;
+        font-family: 'Aref Ruqaa', serif;
+        color:red;
+        border-style:solid;
+        border-color:green;
+        padding:30px;
+        height:100px;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+        background-image:url('images (9).jpeg');
+        border-radius:15px;
+    }
+    .bac {
+     font-size:20px;
+    }
+    .chlef{
+        color:black;
+        
+
+
+
+    }
+    .fac{
+     width:100px; 
+       
+    }
+    .yes{
+        font-size:20px;
+       background-color:rgba(0,0,0,0.9);
+        background-image:url('images (9).jpeg');
+        border-radius:15px;
+        border-style:solid;
+        border-color:green;
+        padding:10px;       
+        margin-top:10px;
+        text-align:center;
+        
+        Color: #fff;
+        color:red;
+        font-family: 'Amiri', serif;
+        font-family: 'Aref Ruqaa', serif;
+        font-family: 'Gulzar', serif;
+        font-family: 'Harmattan', sans-serif;
+        font-family: 'Jomhuria', cursive;
+        font-family: 'Lalezar', cursive;
+        font-family: 'Lateef', cursive;
+        font-family: 'Noto Nastaliq Urdu', serif;
+        font-family: 'Reem Kufi', sans-serif;
+    }
+    div h3{
+   font-size:25px;
+   text-decoration-line:underline;
+   text-decoration-color:green;            
+    }
+  div  p{
+        color:black;
+        font-size:15px;
+        font-family: 'Cairo', sans-serif;
+        Font-weight:bold;
+        
+        
+        
+    }
+    input{
+        width:200px;
+        Text-align:center;
+        Padding:1px;
+        Border-radius:20px;
+        Font-size:20px;
+    }
+    .cv{
+    font-size:15px;
+    margin:20px;
+    background-color:green;
+    color:white;
+    text-decoration:none;
+    font-weight: 700px;/*اطار*/
+    padding:0.01rem 1.1rem;
+    border-radius:30px;/*اطار مدور*/
+    transition:2s;
+    border:5px solid transparent ;/*نزيدوه باه متتحركش الصفحة/*
+    .chikour{
+        margin: 0 auto;
+        display:block;
+        height:10px;
+        widith:90px;
+    }
+  .ishak{
+  Display:flex; 
+ Justify-content:space-between;
+ Align-items:center; 
+   } 
